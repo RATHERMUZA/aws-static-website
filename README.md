@@ -25,7 +25,7 @@ Follow these steps to manually set up the CI/CD pipeline for deploying your stat
 
 1. **Clone the Repository**: Clone this repository to your local machine using Git.
    ```bash
-   git clone https://github.com/jahangeerwani/static_website.git
+   git clone https://github.com/RATHERMUZA/static_website.git
    ```
 
 2. **Configure AWS Credentials**: Ensure you have configured AWS credentials on your local machine with appropriate permissions.
